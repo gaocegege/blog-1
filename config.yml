@@ -4,7 +4,7 @@ site:
     limit: 10
     theme: theme
     lang: zh
-    url: "http://blog.wuruowei.com"
+    url: "http://blog.xuruowei.com"
     comment: xuruowei
     logo: "-/images/logo.jpg"
     # root: "/blog"
