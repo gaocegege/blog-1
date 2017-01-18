@@ -1,6 +1,6 @@
 title: "2016 Review and something about 2017"
-date: 2017-01-18 17:15:17 +0000
-update: 2017-01-18 17:15:17 +0000
+date: 2017-01-18 7:15:17 +0000
+update: 2017-01-18 7:15:17 +0000
 author: xrw
 # NOTE: the image locate in `source` folder
 # cover: "-/images/posts/example.png"
