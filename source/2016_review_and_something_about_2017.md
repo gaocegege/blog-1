@@ -1,4 +1,4 @@
-title: "2016 Review and something about 2017"
+title: "2016 Review and Something about 2017"
 date: 2017-01-18 7:15:17 +0000
 update: 2017-01-18 7:15:17 +0000
 author: xrw
