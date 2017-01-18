@@ -70,7 +70,7 @@ PS：任何人对于本文中提到的任何观点有其他想法或者有所补
 
 一只日常失眠的徐若薇
 
-## 许可协议
+### 许可协议
 
 - 本文遵守[创作共享CC BY-NC-SA 3.0协议](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/)
 - 网络平台转载请联系 <elizax@163.com>
