@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>徐若薇的博客</title>
   <id>http://blog.xuruowei.com</id>
-  <updated>2017-01-17T18:13:46+08:00</updated>
+  <updated>2017-01-18T15:41:47+08:00</updated>
   <subtitle>分享我所得</subtitle>
   <link href="http://blog.xuruowei.com"></link>
   <author>
     <name>徐若薇的博客</name>
   </author>
   <entry>
-    <title> 第一篇博客文章</title>
-    <updated>2017-01-17T08:18:08Z</updated>
-    <id>tag:blog.xuruowei.com,2017-01-17:/ayi.html</id>
-    <content type="html">&lt;p&gt;Hello, World&lt;/p&gt;&#xA;</content>
-    <link href="http://blog.xuruowei.com/ayi.html"></link>
+    <title>2016 Review and something about 2017</title>
+    <updated>2017-01-18T17:15:17Z</updated>
+    <id>tag:blog.xuruowei.com,2017-01-18:/2016_review_and_something_about_2017.html</id>
+    <content type="html">&lt;p&gt;本文旨在总结2016，并且给2017立一些 Flag（希望不会被打脸，毕竟脸已经挺大了=。=），顺便试水一下个人主页。&lt;/p&gt;&#xA;</content>
+    <link href="http://blog.xuruowei.com/2016_review_and_something_about_2017.html"></link>
     <author>
       <name>Xuruowei</name>
     </author>
