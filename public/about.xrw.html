@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=1">
+<meta name="renderer" content="webkit">
+<meta name="google" value="notranslate">
+<meta name="robots" content="index,follow">
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="徐若薇的博客">
+<meta name="twitter:description" content="分享我所得">
+<meta name="twitter:image:src" content="http://blog.xuruowei.com/images/logo.jpg">
+
+<meta property="og:url" content="http://blog.xuruowei.com">
+<meta property="og:title" content="徐若薇的博客">
+<meta property="og:description" content="分享我所得">
+<meta property="og:site_name" content="徐若薇的博客">
+<meta property="og:image" content="http://blog.xuruowei.com/images/logo.jpg">
+<meta property="og:type" content="website">
+<meta name="robots" content="noodp">
+
+<meta itemprop="name" content="徐若薇的博客">
+<meta itemprop="description" content="分享我所得">
+<meta itemprop="image" content="http://blog.xuruowei.com/images/logo.jpg">
+
+<link rel="canonical" href="http://blog.xuruowei.com">
+
+<link rel="shortcut icon" href="/favicon.png">
+<link rel="apple-itouch-icon" href="/favicon.png">
+<link rel="stylesheet" href="/bundle/index.css">
+<script type="text/javascript">
+    var timeSinceLang = {
+        year: '年前',
+        month: '个月前',
+        day: '天前',
+        hour: '小时前',
+        minute: '分钟前',
+        second: '秒前'
+    };
+    var root = '';
+</script>
+
+<script type="text/javascript">
+    var conn, reloadTimer, connectTimer;
+    var connect = function() {
+        conn = new WebSocket('ws://' + location.host + '/live');
+        conn.onmessage = function(event) {
+            if (event.data === 'change') {
+                if (reloadTimer) clearTimeout(reloadTimer);
+                reloadTimer = setTimeout(function() {
+                    window.location.reload();
+                }, 200);
+            }
+        };
+        conn.onclose = function() {
+            if (connectTimer) clearTimeout(connectTimer);
+            connectTimer = setTimeout(function() {
+                connect();
+            }, 1000);
+        };
+    };
+    connect();
+</script>
+
+
+        <meta name="keywords" content="">
+        <meta name="description" content="关于 Xuruowei">
+        <meta name="author" content="Xuruowei">
+        <title>关于 Xuruowei</title>
+    </head>
+    <body>
+        <article class="container">
+            <header class="header-wrap">
+  <a class="index" href="/">
+    <img class="logo" src="/images/logo.jpg" />
+    
+    XRW
+  </a>
+  <ul class="menu">
+      <li class="menu-item"><a href="/archive.html">归档</a></li>
+      <li class="menu-item"><a href="/tag.html">标签</a></li>
+      <li class="menu-item"><a href="/atom.xml">订阅</a></li>
+  </ul>
+</header>
+
+            <article class="main article">
+                <h1 class="title">关于 Xuruowei</h1>
+                <section class="info">
+                    <span class="avatar" style="background-image: url(/images/avatars/xrw.jpg);"></span>
+                    <a class="name" href="/about.xrw.html">Xuruowei</a>
+                    
+                    <span class="date" data-time="0"><span class="from"></span></span>
+                    
+                    <span class="tags"></span>
+                </section>
+                <article class="content"><h2>简介</h2>
+
+<p>外企小职员，工作内容为知识产权的法律保护。</p>
+
+<p>我是一个</p>
+
+<ul>
+<li>做着总裁梦的职场小萌新<code>╮(╯_╰)╭</code></li>
+<li>配对从来没有成功过的红娘<code>,,Ծ‸Ծ,,</code></li>
+<li>喜欢闻酒香的酒精过敏人士<code>ʅ(‾◡◝)</code></li>
+<li>表面很酷其实内心还是很酷的四眼老司机<code>(｀･д･´)</code></li>
+</ul>
+</article>
+                <section class="author">
+                    <div class="avatar" style="background-image: url(/images/avatars/xrw.jpg);"></div>
+                    <a class="name" href="/about.xrw.html">Xuruowei</a>
+                    <div class="intro">人类</div>
+                </section>
+                <section class="recommend">
+                    
+                    
+                </section>
+                
+    <section id="disqus_thread"></section>
+    <script type="text/javascript">
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//xuruowei.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+
+
+            </article>
+        </article>
+        <footer class="footer">
+    <span class="copyright">
+        
+        <a href="http://xuruowei.com" target="_blank">Xuruowei</a> ©
+        <script type="text/javascript">
+            document.write(new Date().getFullYear());
+        </script>
+    </span>
+    <span class="publish">Powered by <a href="http://www.chole.io/" target="_blank">Ink</a></span>
+</footer>
+
+        <script src="/bundle/index.js"></script>
+    </body>
+</html>
