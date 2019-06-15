@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>徐若薇的博客</title>
   <id>http://blog.xuruowei.com</id>
-  <updated>2019-01-14T18:06:15+08:00</updated>
+  <updated>2019-06-15T19:05:44+08:00</updated>
   <subtitle>分享我所得</subtitle>
   <link href="http://blog.xuruowei.com"></link>
   <author>
     <name>徐若薇的博客</name>
   </author>
+  <entry>
+    <title>小高小徐阿学阿刁的北海道游记</title>
+    <updated>2019-06-08T12:05:35Z</updated>
+    <id>tag:blog.xuruowei.com,2019-06-08:/小高小徐阿学阿刁的北海道游记.html</id>
+    <content type="html">&lt;p&gt;TODO: write your blog abstract here&lt;/p&gt;&#xA;</content>
+    <link href="http://blog.xuruowei.com/小高小徐阿学阿刁的北海道游记.html"></link>
+    <author>
+      <name>Xuruowei</name>
+    </author>
+  </entry>
   <entry>
     <title>小徐小高旅游日记之日本东京肥宅快乐行</title>
     <updated>2019-01-14T09:18:28Z</updated>
